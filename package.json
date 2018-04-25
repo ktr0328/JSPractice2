@@ -1,0 +1,11 @@
+{
+  "name": "JSPractice2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ktr0328/JSPractice2.git",
+  "author": "ktr0328 <zf7heatpa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
