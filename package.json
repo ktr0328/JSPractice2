@@ -6,6 +6,7 @@
   "author": "ktr0328 <zf7heatpa@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "moment": "^2.22.1"
   }
 }
